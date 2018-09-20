@@ -16,14 +16,14 @@ Scale invariant feature transform for image processing. This is an investigation
 
 ### Feature detection
 <div>
-		<img  width="400px" src="img/fd.png" alt="feature detection">
+		<img  width="300px" src="img/fd.png" alt="feature detection">
 		<br>
 		<br>
 </div>
 	
 ### Keypoint localization
 <div>
-		<img width="400px" src="img/kl.png" alt="keypoint localization">
+		<img width="300px" src="img/kl.png" alt="keypoint localization">
 		<br>
 		<br>
 </div>
