@@ -1,7 +1,7 @@
 # SIFT 
 
 ## Paper & associated research
-Read the <a href="https://www.researchgate.net/publication/320310808_Density-based_Clustering_of_Workplace_Effects_on_Mental_Health">associated paper on Methods to improve SIFT</a>
+Read the <a href="https://github.com/ShrutiAppiah/SIFT/blob/master/Methods%20for%20Improving%20SIFT.pdf">associated paper on Methods to improve SIFT</a>
 
 ## Goal
 Scale invariant feature transform for image processing. This is an investigation of methods to improve SIFT algorithms.
@@ -16,12 +16,12 @@ Scale invariant feature transform for image processing. This is an investigation
 
 <div align="center">
 	<div>
-		<img  width="500px" src="img/fd.png" alt="feature detection">
+		<img  width="400px" src="img/fd.png" alt="feature detection">
 		<br>
 		<br>
 	</div>
 	<div>
-		<img src="img/kl.png" alt="keypoint localization">
+		<img width="400px" src="img/kl.png" alt="keypoint localization">
 		<br>
 		<br>
 	</div>
