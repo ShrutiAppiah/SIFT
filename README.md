@@ -14,18 +14,19 @@ Scale invariant feature transform for image processing. This is an investigation
 
 ## Results
 
-<div align="center">
+### Feature detection
 	<div>
 		<img  width="400px" src="img/fd.png" alt="feature detection">
 		<br>
 		<br>
 	</div>
+	
+### Keypoint localization
 	<div>
 		<img width="400px" src="img/kl.png" alt="keypoint localization">
 		<br>
 		<br>
 	</div>
-</div>
 
 ## Learnings
 Keypoint localization eliminated a significant amount of noise. Varying the image's contrast produced more accurate results, even with keypoint localization.
