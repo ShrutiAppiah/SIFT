@@ -16,7 +16,7 @@ Scale invariant feature transform for image processing. This is an investigation
 
 <div align="center">
 	<div>
-		<img  src="img/fd.png" alt="feature detection">
+		<img  width="500px" src="img/fd.png" alt="feature detection">
 		<br>
 		<br>
 	</div>
