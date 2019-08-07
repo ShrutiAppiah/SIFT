@@ -36,4 +36,6 @@ Keypoint localization eliminated a significant amount of noise. Varying the imag
 Shruti Appiah, Mira Sleiman
 
 ## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+Copyright © 2017 Shruti Appiah
